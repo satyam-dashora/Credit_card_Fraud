@@ -10,6 +10,8 @@ transactions so that customers are not charged for items that they did not purch
 ## Documentation
 
 1. Download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-2. Download the code from the python file provided.
+2. Copy the data to your google drive in the directory : (/content/drive/MyDrive/Project 2 CreditCard/)
+3. Rename the csv to creditcard.csv
+4. Download the code from the python file provided.
     - the file has all the libraries, data processing and model building.
-3. Finally, run on python notebook of your choice. recommended : google collab.
+5. Finally, run on python notebook of your choice. recommended : google collab.
